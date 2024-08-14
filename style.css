@@ -29,7 +29,7 @@ body {
 
 .betting-image {
     width: 100%;
-    max-width: 300px;
+    max-width: 500px;
     border-radius: 10px;
     margin-bottom: 20px;
     margin-top: 10px;
@@ -40,7 +40,6 @@ body {
     font-size: 16px;
     color: #fff;
     background-color: #25D366;
-    /* WhatsApp green */
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -49,5 +48,4 @@ body {
 
 .whatsapp-btn:hover {
     background-color: #128C7E;
-    /* Darker WhatsApp green */
 }
